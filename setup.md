@@ -38,3 +38,4 @@ Note: Make relevant config changes in tsconfig.json
 npm run dev
 ```
 
+6. in vim use npx eslint . --fix
