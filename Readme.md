@@ -14,4 +14,8 @@ can use this link http://mqtt-client.emqx.com/#/recent_connections/9566a6ff-7e42
 to check if mqtt is listening to the message event. 
 
 SAMPLE OUTPUT
+Screenshot of /fetchAllTasks API
 ![alt text](image.png)
+
+Screenshot of terminal showing server connected to DB and mqtt client
+![alt text](image-1.png)
