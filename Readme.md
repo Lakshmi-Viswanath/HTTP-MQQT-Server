@@ -1,5 +1,7 @@
 .env file is pushed to git to make it easier for the  assessing the task 
 
+command to run : npm run dev
+
 Tasks Implemented
 1. Add new items to the list by sending a message to /add topic of the
 MQTT Broker
